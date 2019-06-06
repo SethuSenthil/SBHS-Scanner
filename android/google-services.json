@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890885856842",
+    "firebase_url": "https://tech-trivia-d9c05.firebaseio.com",
+    "project_id": "tech-trivia-d9c05",
+    "storage_bucket": "tech-trivia-d9c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890885856842:android:a6fdf2106c9640b0",
+        "android_client_info": {
+          "package_name": "com.example.sbcsc_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890885856842-br8codm0mlsjj69e8emi0l2t4n5mi0vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOsnr4pVJxIKDRqcUcqjAg-zPUfxZnq1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890885856842-jvscqvlu5a2e65fg16fpkaek03bh6ib3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
